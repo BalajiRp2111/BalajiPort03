@@ -1,0 +1,13 @@
+title: John Doe's Portfolio
+email: john.doe@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my portfolio! I'm a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Social Media Links
+github_username: yourusername
+linkedin_username: yourlinkedinprofile
+
+# Build settings
+theme: minima
